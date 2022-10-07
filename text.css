@@ -1,0 +1,36 @@
+.videotitle{
+    font-family: Courier New;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    background-color:black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+}
+
+.cardbtn{
+font-family: Courier New;
+font-size: 25px;
+font-weight: 1000;
+color: white;
+background-color: transparent;
+border-width: 2px;
+border-color: white;
+width: 200px;
+height: 200px;
+}
+
+.cardbtn:hover{
+    background-color: beige;
+    color: black;
+    opacity: 0.8;
+    
+    
+}
+
+
+
+
+
