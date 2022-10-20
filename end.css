@@ -12,6 +12,10 @@ body{
     color: white;
 }
 
+#finalScore{
+    font-size: 100px;
+}
+
 .btnn{
     margin-top: 20px;
     margin-left: 10px;
